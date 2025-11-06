@@ -1,7 +1,6 @@
 import { Main } from './components/Main'
 import { Middle } from './components/Middle'
 import { Planets } from './components/Planets'
-import { Title } from './components/Title'
 import { Info } from './components/Info'
 import { useParams } from 'react-router-dom'
 import planets from './/planets.json'
